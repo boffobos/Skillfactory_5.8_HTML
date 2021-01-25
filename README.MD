@@ -4,7 +4,7 @@
 
 licence: [MIT](./license.md)
 
-[5.8_веб_сайт](./index.html)
+[5.8_веб_сайт](https://boffobos.github.io/Skillfactory_5.8_HTML/)
 
 --------
 
